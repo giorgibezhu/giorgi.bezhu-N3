@@ -1,0 +1,64 @@
+.main{
+    display: flex;
+}
+.main2{
+    display: flex;
+}
+.number1 img{
+    display: flex;
+    height: 600px;
+    width: 600px;
+}
+
+.number12 p{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif ;
+    line-height: 40px;
+    text-align: center;
+    padding-top: 120px;
+   
+}
+.number2 img{
+    margin-right: 50px;
+    display: flex;
+}
+.number22 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: aliceblue;
+    line-height: 50px;
+    padding-top: 100px;
+    margin-left: 30px;  
+}
+.first{
+    justify-content: space-between;
+    margin-top: 20px;
+    display: flex;
+}
+.first div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border: solid black 5px;
+    background-image: url(https://c.tenor.com/UNTqMDwqh1gAAAAM/hello-hi.gif) ;
+}
+.second{
+    justify-content: space-between;
+    margin-top: 20px;
+    display: flex;
+}
+.second div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border: solid black 5px;
+    background-image: url(https://i.gifer.com/4Snj.gif) ;
+}
+body{
+    background-image:linear-gradient(rgba(238, 28, 28, 0.705), rgba(255, 255, 0, 0.5), rgb(39, 50, 201), rgb(80, 155, 86)),url(https://media.wired.com/photos/593240cc58b0d64bb35d07d0/master/w_1600,c_limit/whyte-a.gif) ;
+}
